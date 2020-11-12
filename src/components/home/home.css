@@ -1,0 +1,23 @@
+.main{
+  color: white;
+  font-family: 'Dancing Script', cursive;
+
+  position:fixed ;top:200px;left:50px
+}
+@import url(https://unpkg.com/bootstrap@4.1.0/dist/css/bootstrap.min.css);
+.hello {
+    color: white;
+    line-height: 51px;
+    font-family: 'Dancing Script', cursive;
+
+}
+.main-title {
+    font-size: 24px;
+    line-height: 38px;
+    color: #fff;
+    font-weight: 400;
+    font-family: 'Dancing Script', cursive;
+
+}
+@import url(https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);

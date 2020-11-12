@@ -1,0 +1,51 @@
+.contact{
+    display: block;
+
+width: 40px;margin-top: 10%;
+margin-left: 40%;
+overflow: hidden;
+font-family: 'Dancing Script', cursive;
+
+}
+.mail{
+    display: block;
+
+    width: 45px;margin-top: 10%;
+    margin-left: 40%;
+
+    overflow: hidden;
+    font-family: 'Dancing Script', cursive;
+
+
+}
+.location{
+    display: block;
+
+    width: 45px;margin-top: 10%;
+    margin-left: 25%;
+overflow: hidden;
+font-family: 'Dancing Script', cursive;
+
+
+}
+.font{
+    font-family: 'Dancing Script', cursive;
+
+}
+.mailcontent{
+    margin-left: 25%;
+color: white;    font-family: 'Dancing Script', cursive;
+}
+@media only screen and (max-width:450px) {
+    .mailcontent{
+    margin-left: -20px;
+    color: white;    font-family: 'Dancing Script', cursive;
+
+}
+.address{
+    margin-left: -12px;
+    color: white;
+    padding-right: 10px;    font-family: 'Dancing Script', cursive;
+
+}
+}
