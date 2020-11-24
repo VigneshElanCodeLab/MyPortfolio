@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ffd310f.chunk.css",
+    "main.js": "/static/js/main.dcdb90dd.chunk.js",
+    "main.js.map": "/static/js/main.dcdb90dd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6f94c8f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6f94c8f6.js.map",
+    "static/js/2.0e958322.chunk.js": "/static/js/2.0e958322.chunk.js",
+    "static/js/2.0e958322.chunk.js.map": "/static/js/2.0e958322.chunk.js.map",
+    "static/js/3.c1c4da8b.chunk.js": "/static/js/3.c1c4da8b.chunk.js",
+    "static/js/3.c1c4da8b.chunk.js.map": "/static/js/3.c1c4da8b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0ffd310f.chunk.css.map": "/static/css/main.0ffd310f.chunk.css.map",
+    "static/js/2.0e958322.chunk.js.LICENSE.txt": "/static/js/2.0e958322.chunk.js.LICENSE.txt",
+    "static/media/Vignesh Elangovan.97c122d6.pdf": "/static/media/Vignesh Elangovan.97c122d6.pdf",
+    "static/media/call.2dfd95d5.png": "/static/media/call.2dfd95d5.png",
+    "static/media/App.css": "/static/media/propic1.01286c03.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f94c8f6.js",
+    "static/js/2.0e958322.chunk.js",
+    "static/css/main.0ffd310f.chunk.css",
+    "static/js/main.dcdb90dd.chunk.js"
+  ]
+}
