@@ -14,12 +14,7 @@ function Hello (){
                 I am Vignesh Elangovan 
                 </h3>
                 <h2 className="main-title animate__animated   animate__zoomInUp">
-<<<<<<< Updated upstream
-               Software engineer with 2 years of
-               
-=======
                     Software engineer with 2 years of
->>>>>>> Stashed changes
                <br/> experience in web and api development 
                 </h2>
                 <Socialmedia/>
